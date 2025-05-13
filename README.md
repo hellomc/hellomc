@@ -19,11 +19,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Github Stats
+<!--# Github Stats-->
 <!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomc&show_icons=true&theme=radical)
+<!--![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomc&show_icons=true&theme=radical)-->
 <!--Most Used Languages Bar from https://github.com/anuraghazra/github-readme-stats-->
-![Michelle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomc&hide_progress=false)
+<!--![Michelle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomc&hide_progress=false)-->
 <!--
 **hellomc/hellomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
